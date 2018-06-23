@@ -1,0 +1,11 @@
+1. https://drive.google.com/open?id=0BySF5BE_8udeZ0xCZGpQZkRSSGM    ( JDK 1.7 )
+
+2. https://drive.google.com/open?id=0BySF5BE_8udeQk03N3liNTRWWDA     ( MySQL 5.0 )
+
+3. https://drive.google.com/open?id=0BySF5BE_8udecTN5Vi1VSmRJYUU     ( SQLyog 5.19 ) 
+
+4. https://drive.google.com/open?id=0BySF5BE_8udeNWRCalVON0NUWjQ  ( Eclipse-Indigo 3.7 )
+
+5. https://drive.google.com/open?id=0BySF5BE_8udeeTJuTWllWXE1WlU      ( ApacheTomcat 6.0 )
+
+6. https://drive.google.com/open?id=0BySF5BE_8udeQUZlVV9IYlNmU1E      ( HADOOP Softwares-x86-0.18.0 )
