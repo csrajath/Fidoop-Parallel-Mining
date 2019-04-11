@@ -1,14 +1,3 @@
-// Program Name	: 	Global.java
-// Purpose		:	This program is a part of DB Connection
-// Author		:	Menaka
-// Date			:	1-Jul-2016
-// Modified by	:
-// Date			:
-// Purpose		:
-
-
-
-
 package com.Fidoop.DAOFactory;
 
 public class Global
@@ -19,8 +8,4 @@ public class Global
 	
     public final static String Uname="root";
     public final static String Pass="admin";
-	
-	
-	
-	
 }
