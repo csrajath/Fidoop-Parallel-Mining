@@ -1,14 +1,3 @@
-
-// Program Name	: 	PoolingDAO.java
-// Purpose		:	This program is a part of DB table connection
-// Author		:	Menaka
-// Date			:	1-Jul-2016
-// Modified by	:
-// Date			:
-// Purpose		:
-
-
-
 package com.Fidoop.DAOFactory;
 
 import java.sql.Connection;
