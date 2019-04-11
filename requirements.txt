@@ -1,0 +1,12 @@
+1. [JDK 1.7](https://drive.google.com/open?id=0BySF5BE_8udeZ0xCZGpQZkRSSGM)
+
+2. [MySQL 5.0](https://drive.google.com/open?id=0BySF5BE_8udeQk03N3liNTRWWDA)
+
+3. SQLyog 5.19 [Free Trail can be downloaded here](https://www.webyog.com/product/sqlyog_trialregform).
+As an alternative [MySQL WorkBench](https://dev.mysql.com/downloads/workbench/) can also be downloaded and used. 
+
+4. [Eclipse-Indigo 3.7](https://drive.google.com/open?id=0BySF5BE_8udeNWRCalVON0NUWjQ)
+
+5. [ApacheTomcat 6.0](https://drive.google.com/open?id=0BySF5BE_8udeeTJuTWllWXE1WlU)
+
+6. [HADOOP Softwares-x86-0.18.0](https://drive.google.com/open?id=0BySF5BE_8udeQUZlVV9IYlNmU1E)
