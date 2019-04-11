@@ -1,14 +1,3 @@
-// Program Name	: 	MainClass.java
-// Purpose		:	This program is a part of Fidoop main system
-// Author		:	Menaka
-// Date			:	1-Jul-2016
-// Modified by	:
-// Date			:
-// Purpose		:
-
-
-
-
 package com.Fidoop.Main;
 
 
