@@ -1,12 +1,3 @@
-// Program Name	: 	Excel_Upload.java
-// Purpose		:	This program is a part of Navis Byes Classification system
-// Author		:	Menaka
-// Date			:	19-Aug-2016
-// Modified by	:
-// Date			:
-// Purpose		:
-
-
 package com.Fidoop.util;
 
 import java.sql.*;
